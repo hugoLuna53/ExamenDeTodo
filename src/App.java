@@ -4,6 +4,5 @@ public class App {
         System.out.println("Holaa");
         System.out.println("hola,adios");
         System.out.println("Sout vuelto a escribir");
-        System.out.println("perrillo");
     }
 }
